@@ -8,7 +8,7 @@ The Model uses the concepts of Logistc Regression to decide whether a particular
      3-HR_comm_sep.csv : A CSV file containing the data of the employees
      
 ## Processes incorporated : ##
-     Use the Employee Retention dataset named HR_comma_sep.csv we : 
+     Using the Employee Retention dataset named HR_comma_sep.csv we : 
         1- Figured out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work).
         2- Plotted bar charts showing impact of employee salaries on retention.
         3- Plotted bar charts showing correlation between department and employee retention.
